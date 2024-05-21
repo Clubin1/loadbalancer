@@ -1,3 +1,4 @@
+https://codingchallenges.fyi/challenges/challenge-load-balancer/
 
 - Build a load balancer that can send traffic to two or more servers.
 - Health check the servers.
